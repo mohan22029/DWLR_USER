@@ -1,0 +1,113 @@
+.data-card {
+  background-color: white;
+  border-radius: 0.5rem;
+  padding: 1.25rem;
+  box-shadow: var(--shadow);
+  transition: var(--transition);
+  position: relative;
+  overflow: hidden;
+}
+
+.data-card:hover {
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+}
+
+.data-card.warning {
+  border-left: 4px solid var(--warning-color);
+}
+
+.data-card.alert {
+  border-left: 4px solid var(--danger-color);
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+
+.card-header h3 {
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--gray-500);
+}
+
+.card-icon {
+  color: var(--gray-400);
+}
+
+.water-icon {
+  color: var(--primary-color);
+}
+
+.temperature-icon {
+  color: var(--danger-color);
+}
+
+.pressure-icon {
+  color: var(--secondary-color);
+}
+
+.battery-icon {
+  color: var(--success-color);
+}
+
+.card-value {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--gray-800);
+  margin-bottom: 0.5rem;
+}
+
+.card-change {
+  display: flex;
+  align-items: center;
+  gap: 0.375rem;
+  font-size: 0.75rem;
+  color: var(--gray-500);
+}
+
+.change-icon.up {
+  color: var(--success-color);
+}
+
+.change-icon.down {
+  color: var(--danger-color);
+}
+
+.change-icon.neutral {
+  color: var(--gray-400);
+}
+
+.status-indicator {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 0.25rem 0.5rem;
+  font-size: 0.675rem;
+  font-weight: 500;
+  border-radius: 0 0 0 0.375rem;
+}
+
+.status-indicator.warning {
+  background-color: var(--warning-color);
+  color: white;
+}
+
+.status-indicator.alert {
+  background-color: var(--danger-color);
+  color: white;
+  animation: pulse 2s infinite;
+}
+
+@media (max-width: 768px) {
+  .data-card {
+    padding: 1rem;
+  }
+  
+  .card-value {
+    font-size: 1.25rem;
+  }
+}
