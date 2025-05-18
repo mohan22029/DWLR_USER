@@ -39,6 +39,13 @@ const Sidebar: React.FC = () => {
             <Send size={20} />
             <span>Send</span>
           </NavLink>
+          <NavLink to="/predict" className={({ isActive }) => isActive ? 'active' : ''} onClick={() => setIsOpen(false)}>
+            <Send size={20} />
+            <span>Prediction</span>
+          </NavLink>
+          
+          
+
         </nav>
         
         <div className="sidebar-footer">

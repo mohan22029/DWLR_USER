@@ -4,6 +4,7 @@ import Layout from './components/Layout/Layout';
 import Dashboard from './pages/Dashboard/Dashboard';
 import NewsPage from './pages/News/NewsPage';
 import SendPage from './pages/Send/SendPage';
+import GivePage from './pages/Complient/GivePage';
 import './App.css';
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
           <Route path="/" element={<Dashboard />} />
           <Route path="/news" element={<NewsPage />} />
           <Route path="/send" element={<SendPage />} />
+           <Route path="/predict" element={<GivePage />} />
         </Routes>
       </Layout>
     </Router>
