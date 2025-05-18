@@ -1,7 +1,25 @@
-import React, { useEffect, useRef } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
+import L from 'leaflet';
+import 'leaflet/dist/leaflet.css';
 import { WaterData } from '../../services/api';
 import { MapPin } from 'lucide-react';
 import './MapView.css';
+
+// Fix default Leaflet icon issue
+delete (L.Icon.Default.prototype as any)._getIconUrl;
+
+// Define a custom circle icon using SVG
+const customIcon = (hasAnomaly: boolean) =>
+  new L.DivIcon({
+    html: `
+      <svg height="24" width="24" viewBox="0 0 24 24" style="transform: translate(-12px, -24px);">
+        <circle cx="12" cy="12" r="10" fill="${hasAnomaly ? '#FF4C4C' : '#2A9D8F'}" stroke="white" stroke-width="2" />
+      </svg>
+    `,
+    className: '',
+    iconSize: [24, 24],
+    iconAnchor: [12, 24],
+  });
 
 interface MapViewProps {
   data: WaterData[];
@@ -9,61 +27,74 @@ interface MapViewProps {
 
 const MapView: React.FC<MapViewProps> = ({ data }) => {
   const mapRef = useRef<HTMLDivElement>(null);
-  
-  // In a real implementation, this would use a mapping library like Leaflet or Google Maps
-  // For this example, we'll simulate a map with CSS and place markers based on data
-  
+  const mapInstanceRef = useRef<L.Map | null>(null);
+
   useEffect(() => {
-    if (!mapRef.current || data.length === 0) return;
-    
-    // This would be replaced with actual map initialization code
-    const mapElement = mapRef.current;
-    mapElement.innerHTML = '';
-    
-    // Mock data for placing markers
-    const mockLocations = [
-      { lat: 30, lng: 50, label: 'Station A' },
-      { lat: 60, lng: 30, label: 'Station B' },
-      { lat: 40, lng: 70, label: 'Station C' },
-      { lat: 70, lng: 60, label: 'Station D' },
-    ];
-    
-    // Create markers based on mock locations and associate with data points
-    mockLocations.forEach((location, index) => {
-      const marker = document.createElement('div');
-      marker.className = 'map-marker';
-      
-      // Position marker based on mock coordinates
-      marker.style.left = `${location.lng}%`;
-      marker.style.top = `${location.lat}%`;
-      
-      // Determine if this marker should show an anomaly
-      const dataPoint = data[Math.min(index, data.length - 1)];
-      const hasAnomaly = dataPoint.Anomaly === "Yes";
-      
-      if (hasAnomaly) {
-        marker.classList.add('anomaly');
-      }
-      
-      // Create marker content
-      marker.innerHTML = `
-        <div class="marker-icon ${hasAnomaly ? 'anomaly' : ''}">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
-            <circle cx="12" cy="10" r="3"></circle>
-          </svg>
-        </div>
-        <div class="marker-tooltip">
-          <strong>${location.label}</strong>
-          <p>Water Level: ${dataPoint.Water_Level.toFixed(2)} m</p>
-          <p>Temp: ${dataPoint.Water_Temperature.toFixed(1)} °C</p>
-          ${hasAnomaly ? '<p class="anomaly-text">Anomaly Detected!</p>' : ''}
-        </div>
-      `;
-      
-      mapElement.appendChild(marker);
+    if (!mapRef.current || mapInstanceRef.current) return;
+
+    // Initialize Leaflet map
+    const map = L.map(mapRef.current, {
+      center: [20.5937, 78.9629], // Center of India
+      zoom: 5,
+      scrollWheelZoom: false,
+      doubleClickZoom: false,
+      touchZoom: false,
+      boxZoom: false,
+      dragging: true,
+      zoomControl: true,
     });
-    
+
+    mapInstanceRef.current = map;
+
+    // Add base map layer
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+      attribution:
+        '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors © <a href="https://carto.com/">CARTO</a>',
+      subdomains: 'abcd',
+      maxZoom: 19,
+    }).addTo(map);
+  }, []);
+
+  useEffect(() => {
+    if (!mapInstanceRef.current || data.length === 0) return;
+
+    // Clear existing markers
+    mapInstanceRef.current.eachLayer((layer) => {
+      if (layer instanceof L.Marker) {
+        mapInstanceRef.current?.removeLayer(layer);
+      }
+    });
+
+    // Add markers based on data
+    data.forEach((dataPoint, index) => {
+      // Use mock coordinates for demonstration; replace with actual lat/lng from data if available
+      const mockLocations = [
+        { lat: 20.5937, lng: 78.9629, label: 'Station A' },
+        { lat: 22.5937, lng: 80.9629, label: 'Station B' },
+        { lat: 18.5937, lng: 76.9629, label: 'Station C' },
+        { lat: 24.5937, lng: 82.9629, label: 'Station D' },
+      ];
+
+      const location = mockLocations[index % mockLocations.length];
+      const hasAnomaly = dataPoint.Anomaly === 'Yes';
+
+      if (location.lat && location.lng) {
+        const marker = L.marker([location.lat, location.lng], {
+          icon: customIcon(hasAnomaly),
+        }).addTo(mapInstanceRef.current!);
+
+        marker.bindTooltip(location.label);
+
+        marker.bindPopup(`
+          <div>
+            <strong>${location.label}</strong><br />
+            <strong>Water Level:</strong> ${dataPoint.Water_Level.toFixed(2)} m<br />
+            <strong>Temp:</strong> ${dataPoint.Water_Temperature.toFixed(1)} °C<br />
+            ${hasAnomaly ? '<p class="anomaly-text">Anomaly Detected!</p>' : ''}
+          </div>
+        `);
+      }
+    });
   }, [data]);
 
   return (
@@ -81,7 +112,6 @@ const MapView: React.FC<MapViewProps> = ({ data }) => {
         </div>
       </div>
       <div ref={mapRef} className="map-view">
-        {/* Map will be rendered here */}
         {data.length === 0 && (
           <div className="map-placeholder">
             <MapPin size={32} />

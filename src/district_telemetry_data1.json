@@ -1,0 +1,1958 @@
+{
+    "Agarmalwa": {
+        "count": 2,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0165",
+                "latitude": 23.775793,
+                "longitude": 76.005447,
+                "avg_water_level": -6.24
+            },
+            {
+                "uid": "CGWKOL0166",
+                "latitude": 24.1472,
+                "longitude": 76.1603,
+                "avg_water_level": -6.99
+            }
+        ]
+    },
+    "Alirajpur": {
+        "count": 1,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0167",
+                "latitude": 22.2986,
+                "longitude": 74.3536,
+                "avg_water_level": -4.44
+            }
+        ]
+    },
+    "Anuppur": {
+        "count": 3,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0169",
+                "latitude": 23.1194,
+                "longitude": 81.7006,
+                "avg_water_level": -6.25
+            },
+            {
+                "uid": "CGWKOL0170",
+                "latitude": 23.1958,
+                "longitude": 81.9786,
+                "avg_water_level": -4.98
+            },
+            {
+                "uid": "CGWKOL0172",
+                "latitude": 22.9333,
+                "longitude": 81.6083,
+                "avg_water_level": -9.28
+            }
+        ]
+    },
+    "Ashok Nagar": {
+        "count": 4,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0173",
+                "latitude": 24.5633,
+                "longitude": 77.7242,
+                "avg_water_level": -10.06
+            },
+            {
+                "uid": "CGWKOL0174",
+                "latitude": 24.7397,
+                "longitude": 78.0014,
+                "avg_water_level": -5.46
+            },
+            {
+                "uid": "CGWKOL0175",
+                "latitude": 24.7125,
+                "longitude": 78.1364,
+                "avg_water_level": -5.77
+            },
+            {
+                "uid": "CGWKOL0176",
+                "latitude": 24.8783,
+                "longitude": 77.8283,
+                "avg_water_level": -14.29
+            }
+        ]
+    },
+    "Balaghat": {
+        "count": 4,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0178",
+                "latitude": 22.1042,
+                "longitude": 80.5514,
+                "avg_water_level": -5.21
+            },
+            {
+                "uid": "CGWKOL0180",
+                "latitude": 21.8964,
+                "longitude": 80.7953,
+                "avg_water_level": -5.17
+            },
+            {
+                "uid": "CGWKOL0181",
+                "latitude": 21.7708,
+                "longitude": 79.8033,
+                "avg_water_level": -4.64
+            },
+            {
+                "uid": "CGWKOL0183",
+                "latitude": 21.7633,
+                "longitude": 80.0519,
+                "avg_water_level": -5.62
+            }
+        ]
+    },
+    "Barwani": {
+        "count": 2,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0184",
+                "latitude": 21.9347,
+                "longitude": 75.1364,
+                "avg_water_level": -24.54
+            },
+            {
+                "uid": "CGWKOL0185",
+                "latitude": 22.0408,
+                "longitude": 75.0464,
+                "avg_water_level": -5.99
+            }
+        ]
+    },
+    "Betul": {
+        "count": 5,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0186",
+                "latitude": 21.9236,
+                "longitude": 78.1242,
+                "avg_water_level": -2.15
+            },
+            {
+                "uid": "CGWKOL0187",
+                "latitude": 21.9355,
+                "longitude": 78.102,
+                "avg_water_level": -5.28
+            },
+            {
+                "uid": "CGWKOL0188",
+                "latitude": 21.6558,
+                "longitude": 77.9429,
+                "avg_water_level": -41.48
+            },
+            {
+                "uid": "CGWKOL0189",
+                "latitude": 22.0185,
+                "longitude": 77.7297,
+                "avg_water_level": -9.07
+            },
+            {
+                "uid": "CGWKOL0207",
+                "latitude": 21.5317,
+                "longitude": 77.8694,
+                "avg_water_level": -27.27
+            }
+        ]
+    },
+    "Bhind": {
+        "count": 1,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0190",
+                "latitude": 26.3569,
+                "longitude": 78.2903,
+                "avg_water_level": -5.49
+            }
+        ]
+    },
+    "Bhopal": {
+        "count": 4,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0191",
+                "latitude": 23.6211,
+                "longitude": 77.4278,
+                "avg_water_level": -20.06
+            },
+            {
+                "uid": "CGWKOL0192",
+                "latitude": 23.2264,
+                "longitude": 77.1958,
+                "avg_water_level": -18.78
+            },
+            {
+                "uid": "CGWKOL0193",
+                "latitude": 23.1611,
+                "longitude": 77.4689,
+                "avg_water_level": -8.57
+            },
+            {
+                "uid": "CGWKOL0194",
+                "latitude": 23.1611,
+                "longitude": 77.4689,
+                "avg_water_level": -10.53
+            }
+        ]
+    },
+    "Chhatarpur": {
+        "count": 11,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0195",
+                "latitude": 25.0682,
+                "longitude": 79.4299,
+                "avg_water_level": -6.02
+            },
+            {
+                "uid": "CGWKOL0196",
+                "latitude": 24.6394,
+                "longitude": 79.4817,
+                "avg_water_level": -14.25
+            },
+            {
+                "uid": "CGWKOL0197",
+                "latitude": 24.9322,
+                "longitude": 79.5864,
+                "avg_water_level": -3.51
+            },
+            {
+                "uid": "CGWKOL0198",
+                "latitude": 24.8558,
+                "longitude": 79.9383,
+                "avg_water_level": -9.12
+            },
+            {
+                "uid": "CGWKOL0199",
+                "latitude": 24.7917,
+                "longitude": 79.7953,
+                "avg_water_level": -8.89
+            },
+            {
+                "uid": "CGWKOL0255",
+                "latitude": 24.704221,
+                "longitude": 79.343351,
+                "avg_water_level": -8.44
+            },
+            {
+                "uid": "CGWKOL0262",
+                "latitude": 24.4867,
+                "longitude": 79.31926,
+                "avg_water_level": -38.21
+            },
+            {
+                "uid": "CGWKOL0263",
+                "latitude": 24.401094,
+                "longitude": 79.016793,
+                "avg_water_level": -7.25
+            },
+            {
+                "uid": "CGWKOL0264",
+                "latitude": 24.3745,
+                "longitude": 79.8556,
+                "avg_water_level": -11.13
+            },
+            {
+                "uid": "CGWKOL0271",
+                "latitude": 24.336301,
+                "longitude": 79.331084,
+                "avg_water_level": -3.2
+            },
+            {
+                "uid": "CGWKOL0332",
+                "latitude": 25.16904,
+                "longitude": 79.347688,
+                "avg_water_level": -9.1
+            }
+        ]
+    },
+    "Chhindwara": {
+        "count": 5,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0200",
+                "latitude": 21.8178,
+                "longitude": 79.0361,
+                "avg_water_level": -16.8
+            },
+            {
+                "uid": "CGWKOL0201",
+                "latitude": 22.05,
+                "longitude": 79.2636,
+                "avg_water_level": -7.03
+            },
+            {
+                "uid": "CGWKOL0204",
+                "latitude": 21.963663,
+                "longitude": 78.773102,
+                "avg_water_level": -49.5
+            },
+            {
+                "uid": "CGWKOL0205",
+                "latitude": 22.1944,
+                "longitude": 78.6017,
+                "avg_water_level": -16.88
+            },
+            {
+                "uid": "CGWKOL0206",
+                "latitude": 21.5931,
+                "longitude": 78.5297,
+                "avg_water_level": -7.81
+            }
+        ]
+    },
+    "Damoh": {
+        "count": 11,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0210",
+                "latitude": 24.1297,
+                "longitude": 79.5931,
+                "avg_water_level": -9.77
+            },
+            {
+                "uid": "CGWKOL0211",
+                "latitude": 23.5514,
+                "longitude": 79.6867,
+                "avg_water_level": -22.2
+            },
+            {
+                "uid": "CGWKOL0212",
+                "latitude": 23.9914,
+                "longitude": 79.6783,
+                "avg_water_level": -6.36
+            },
+            {
+                "uid": "CGWKOL0213",
+                "latitude": 23.2931,
+                "longitude": 79.3572,
+                "avg_water_level": -27.81
+            },
+            {
+                "uid": "CGWKOL0214",
+                "latitude": 23.707,
+                "longitude": 79.5309,
+                "avg_water_level": -3.36
+            },
+            {
+                "uid": "CGWKOL0333",
+                "latitude": 24.011473,
+                "longitude": 79.264872,
+                "avg_water_level": -18.32
+            },
+            {
+                "uid": "CGWKOL0334",
+                "latitude": 24.070479,
+                "longitude": 79.406114,
+                "avg_water_level": -15.18
+            },
+            {
+                "uid": "CGWKOL0335",
+                "latitude": 24.148523,
+                "longitude": 79.484138,
+                "avg_water_level": -16.33
+            },
+            {
+                "uid": "CGWKOL0336",
+                "latitude": 23.56527778,
+                "longitude": 79.68138889,
+                "avg_water_level": -4.96
+            },
+            {
+                "uid": "CGWKOL0341",
+                "latitude": 23.999793,
+                "longitude": 79.229874,
+                "avg_water_level": -22.87
+            },
+            {
+                "uid": "CGWKOL0343",
+                "latitude": 23.499857,
+                "longitude": 79.527083,
+                "avg_water_level": -9.94
+            }
+        ]
+    },
+    "Datia": {
+        "count": 4,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0344",
+                "latitude": 25.74325,
+                "longitude": 78.37083333,
+                "avg_water_level": -12.97
+            },
+            {
+                "uid": "CGWKOL0374",
+                "latitude": 25.68916667,
+                "longitude": 78.32861111,
+                "avg_water_level": -8.8
+            },
+            {
+                "uid": "CGWKOL0399",
+                "latitude": 26.05833333,
+                "longitude": 78.67277778,
+                "avg_water_level": -13.72
+            },
+            {
+                "uid": "CGWKOL0413",
+                "latitude": 26.11097222,
+                "longitude": 78.75322222,
+                "avg_water_level": -17.0
+            }
+        ]
+    },
+    "Dewas": {
+        "count": 8,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0215",
+                "latitude": 22.6494,
+                "longitude": 76.3381,
+                "avg_water_level": -22.57
+            },
+            {
+                "uid": "CGWKOL0216",
+                "latitude": 22.4987,
+                "longitude": 76.3894,
+                "avg_water_level": -6.73
+            },
+            {
+                "uid": "CGWKOL0217",
+                "latitude": 22.4703,
+                "longitude": 76.2664,
+                "avg_water_level": -6.53
+            },
+            {
+                "uid": "CGWKOL0218",
+                "latitude": 22.5922,
+                "longitude": 76.9092,
+                "avg_water_level": -15.93
+            },
+            {
+                "uid": "CGWKOL0219",
+                "latitude": 22.5922,
+                "longitude": 76.9092,
+                "avg_water_level": -16.48
+            },
+            {
+                "uid": "CGWKOL0220",
+                "latitude": 22.9731,
+                "longitude": 76.3522,
+                "avg_water_level": -14.15
+            },
+            {
+                "uid": "CGWKOL0221",
+                "latitude": 22.97305,
+                "longitude": 76.3522222,
+                "avg_water_level": -14.23
+            },
+            {
+                "uid": "CGWKOL0452",
+                "latitude": 22.663692,
+                "longitude": 75.595129,
+                "avg_water_level": -15.32
+            }
+        ]
+    },
+    "Dhar": {
+        "count": 17,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0222",
+                "latitude": 23.0125,
+                "longitude": 75.2519,
+                "avg_water_level": -13.5
+            },
+            {
+                "uid": "CGWKOL0223",
+                "latitude": 22.8806,
+                "longitude": 75.2492,
+                "avg_water_level": -7.5
+            },
+            {
+                "uid": "CGWKOL0224",
+                "latitude": 23.0724,
+                "longitude": 75.2713,
+                "avg_water_level": -10.23
+            },
+            {
+                "uid": "CGWKOL0225",
+                "latitude": 22.3619,
+                "longitude": 74.7975,
+                "avg_water_level": -4.94
+            },
+            {
+                "uid": "CGWKOL0226",
+                "latitude": 22.6242,
+                "longitude": 75.4319,
+                "avg_water_level": -16.85
+            },
+            {
+                "uid": "CGWKOL0227",
+                "latitude": 22.8199,
+                "longitude": 75.2299,
+                "avg_water_level": -12.34
+            },
+            {
+                "uid": "CGWKOL0228",
+                "latitude": 22.56444,
+                "longitude": 75.2916666,
+                "avg_water_level": -13.82
+            },
+            {
+                "uid": "CGWKOL0229",
+                "latitude": 22.15416,
+                "longitude": 75.3333333,
+                "avg_water_level": -5.98
+            },
+            {
+                "uid": "CGWKOL0230",
+                "latitude": 22.2356,
+                "longitude": 75.0933,
+                "avg_water_level": -12.17
+            },
+            {
+                "uid": "CGWKOL0231",
+                "latitude": 22.2175,
+                "longitude": 75.4833,
+                "avg_water_level": -4.13
+            },
+            {
+                "uid": "CGWKOL0232",
+                "latitude": 22.6125,
+                "longitude": 75.6972,
+                "avg_water_level": -3.82
+            },
+            {
+                "uid": "CGWKOL0233",
+                "latitude": 22.4889,
+                "longitude": 75.4667,
+                "avg_water_level": -15.03
+            },
+            {
+                "uid": "CGWKOL0234",
+                "latitude": 22.45555,
+                "longitude": 75.3944444,
+                "avg_water_level": -5.88
+            },
+            {
+                "uid": "CGWKOL0235",
+                "latitude": 22.5861,
+                "longitude": 75.1333,
+                "avg_water_level": -6.85
+            },
+            {
+                "uid": "CGWKOL0236",
+                "latitude": 22.6617,
+                "longitude": 74.9789,
+                "avg_water_level": -11.84
+            },
+            {
+                "uid": "CGWKOL0237",
+                "latitude": 22.6617,
+                "longitude": 74.9789,
+                "avg_water_level": -11.44
+            },
+            {
+                "uid": "CGWKOL0238",
+                "latitude": 22.5561,
+                "longitude": 75.1222,
+                "avg_water_level": -17.29
+            }
+        ]
+    },
+    "Dindori": {
+        "count": 1,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0239",
+                "latitude": 22.8197,
+                "longitude": 81.3306,
+                "avg_water_level": -5.51
+            }
+        ]
+    },
+    "Guna": {
+        "count": 4,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0240",
+                "latitude": 24.385,
+                "longitude": 77.4144,
+                "avg_water_level": -19.6
+            },
+            {
+                "uid": "CGWKOL0241",
+                "latitude": 24.385,
+                "longitude": 77.4144,
+                "avg_water_level": -22.85
+            },
+            {
+                "uid": "CGWKOL0242",
+                "latitude": 24.3247,
+                "longitude": 77.1033,
+                "avg_water_level": -17.76
+            },
+            {
+                "uid": "CGWKOL0243",
+                "latitude": 24.0625,
+                "longitude": 77.2547,
+                "avg_water_level": -28.6
+            }
+        ]
+    },
+    "Gwalior": {
+        "count": 3,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0244",
+                "latitude": 25.8911,
+                "longitude": 78.3367,
+                "avg_water_level": -19.35
+            },
+            {
+                "uid": "CGWKOL0245",
+                "latitude": 25.8856,
+                "longitude": 77.7697,
+                "avg_water_level": -0.28
+            },
+            {
+                "uid": "CGWKOL0246",
+                "latitude": 26.2239,
+                "longitude": 78.1944,
+                "avg_water_level": -18.99
+            }
+        ]
+    },
+    "Harda": {
+        "count": 2,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0247",
+                "latitude": 22.4839,
+                "longitude": 76.9861,
+                "avg_water_level": -3.89
+            },
+            {
+                "uid": "CGWKOL0248",
+                "latitude": 22.1625,
+                "longitude": 76.8594,
+                "avg_water_level": -1.51
+            }
+        ]
+    },
+    "Indore": {
+        "count": 19,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0249",
+                "latitude": 22.6903,
+                "longitude": 75.6117,
+                "avg_water_level": -12.49
+            },
+            {
+                "uid": "CGWKOL0250",
+                "latitude": 22.6903,
+                "longitude": 75.6111,
+                "avg_water_level": -12.53
+            },
+            {
+                "uid": "CGWKOL0251",
+                "latitude": 22.9928,
+                "longitude": 75.52,
+                "avg_water_level": -13.52
+            },
+            {
+                "uid": "CGWKOL0252",
+                "latitude": 22.8475,
+                "longitude": 75.5366666,
+                "avg_water_level": -10.99
+            },
+            {
+                "uid": "CGWKOL0253",
+                "latitude": 22.6861,
+                "longitude": 76.0303,
+                "avg_water_level": -7.63
+            },
+            {
+                "uid": "CGWKOL0254",
+                "latitude": 22.7061,
+                "longitude": 75.8929,
+                "avg_water_level": -56.79
+            },
+            {
+                "uid": "CGWKOL0256",
+                "latitude": 22.7033,
+                "longitude": 75.8894,
+                "avg_water_level": -10.38
+            },
+            {
+                "uid": "CGWKOL0257",
+                "latitude": 22.7375,
+                "longitude": 75.8833,
+                "avg_water_level": -24.99
+            },
+            {
+                "uid": "CGWKOL0258",
+                "latitude": 22.705,
+                "longitude": 75.8411,
+                "avg_water_level": -25.92
+            },
+            {
+                "uid": "CGWKOL0259",
+                "latitude": 22.6872,
+                "longitude": 76.03,
+                "avg_water_level": -7.74
+            },
+            {
+                "uid": "CGWKOL0260",
+                "latitude": 22.6311,
+                "longitude": 75.7922,
+                "avg_water_level": -13.26
+            },
+            {
+                "uid": "CGWKOL0261",
+                "latitude": 22.6564,
+                "longitude": 75.8856,
+                "avg_water_level": -5.97
+            },
+            {
+                "uid": "CGWKOL0265",
+                "latitude": 22.5414,
+                "longitude": 75.7386,
+                "avg_water_level": -3.64
+            },
+            {
+                "uid": "CGWKOL0266",
+                "latitude": 22.4319,
+                "longitude": 75.6194,
+                "avg_water_level": -4.52
+            },
+            {
+                "uid": "CGWKOL0267",
+                "latitude": 22.8156,
+                "longitude": 75.925,
+                "avg_water_level": -9.21
+            },
+            {
+                "uid": "CGWKOL0268",
+                "latitude": 22.9778,
+                "longitude": 75.8333,
+                "avg_water_level": -1.68
+            },
+            {
+                "uid": "CGWKOL0269",
+                "latitude": 23.0139,
+                "longitude": 75.6836,
+                "avg_water_level": -12.63
+            },
+            {
+                "uid": "CGWKOL0270",
+                "latitude": 22.8928,
+                "longitude": 75.9786,
+                "avg_water_level": -23.34
+            },
+            {
+                "uid": "CGWKOL0272",
+                "latitude": 22.97944,
+                "longitude": 75.8319444,
+                "avg_water_level": -5.87
+            }
+        ]
+    },
+    "Jabalpur": {
+        "count": 5,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0273",
+                "latitude": 22.9894,
+                "longitude": 79.8742,
+                "avg_water_level": -8.59
+            },
+            {
+                "uid": "CGWKOL0274",
+                "latitude": 23.1619,
+                "longitude": 79.9536,
+                "avg_water_level": -10.79
+            },
+            {
+                "uid": "CGWKOL0275",
+                "latitude": 23.2189,
+                "longitude": 80.3464,
+                "avg_water_level": -11.42
+            },
+            {
+                "uid": "CGWKOL0276",
+                "latitude": 23.289628,
+                "longitude": 79.693097,
+                "avg_water_level": -26.03
+            },
+            {
+                "uid": "CGWKOL0277",
+                "latitude": 23.4817,
+                "longitude": 80.1039,
+                "avg_water_level": -10.79
+            }
+        ]
+    },
+    "Jhabua": {
+        "count": 4,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0278",
+                "latitude": 22.7625,
+                "longitude": 74.5881,
+                "avg_water_level": -3.84
+            },
+            {
+                "uid": "CGWKOL0279",
+                "latitude": 23.0036,
+                "longitude": 74.7989,
+                "avg_water_level": -3.38
+            },
+            {
+                "uid": "CGWKOL0280",
+                "latitude": 23.095,
+                "longitude": 74.7644,
+                "avg_water_level": -19.81
+            },
+            {
+                "uid": "CGWKOL0281",
+                "latitude": 23.0036,
+                "longitude": 74.7989,
+                "avg_water_level": -2.39
+            }
+        ]
+    },
+    "Katni": {
+        "count": 1,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0282",
+                "latitude": 23.8306,
+                "longitude": 80.4228,
+                "avg_water_level": -12.86
+            }
+        ]
+    },
+    "Khandwa": {
+        "count": 1,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0283",
+                "latitude": 21.7,
+                "longitude": 76.2264,
+                "avg_water_level": -2.51
+            }
+        ]
+    },
+    "Khargone": {
+        "count": 6,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0284",
+                "latitude": 22.1694,
+                "longitude": 76.0597,
+                "avg_water_level": -5.59
+            },
+            {
+                "uid": "CGWKOL0285",
+                "latitude": 21.6994,
+                "longitude": 75.8244,
+                "avg_water_level": -18.04
+            },
+            {
+                "uid": "CGWKOL0286",
+                "latitude": 21.8631,
+                "longitude": 75.9561,
+                "avg_water_level": -8.79
+            },
+            {
+                "uid": "CGWKOL0287",
+                "latitude": 22.1239,
+                "longitude": 75.6083,
+                "avg_water_level": -6.21
+            },
+            {
+                "uid": "CGWKOL0288",
+                "latitude": 21.8236,
+                "longitude": 75.6222,
+                "avg_water_level": -6.59
+            },
+            {
+                "uid": "CGWKOL0289",
+                "latitude": 22.1792,
+                "longitude": 75.5875,
+                "avg_water_level": -12.0
+            }
+        ]
+    },
+    "Mandla": {
+        "count": 2,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0290",
+                "latitude": 23.0392,
+                "longitude": 80.4394,
+                "avg_water_level": -5.41
+            },
+            {
+                "uid": "CGWKOL0291",
+                "latitude": 23.0392,
+                "longitude": 80.4394,
+                "avg_water_level": -5.05
+            }
+        ]
+    },
+    "Mandsaur": {
+        "count": 21,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0292",
+                "latitude": 24.5089,
+                "longitude": 75.7444,
+                "avg_water_level": -5.69
+            },
+            {
+                "uid": "CGWKOL0293",
+                "latitude": 24.5089,
+                "longitude": 75.7444,
+                "avg_water_level": -10.43
+            },
+            {
+                "uid": "CGWKOL0294",
+                "latitude": 24.19,
+                "longitude": 75.63,
+                "avg_water_level": -3.93
+            },
+            {
+                "uid": "CGWKOL0295",
+                "latitude": 24.1878,
+                "longitude": 75.6408,
+                "avg_water_level": -33.76
+            },
+            {
+                "uid": "CGWKOL0296",
+                "latitude": 24.285,
+                "longitude": 74.9867,
+                "avg_water_level": -41.79
+            },
+            {
+                "uid": "CGWKOL0297",
+                "latitude": 24.2717,
+                "longitude": 75.0533,
+                "avg_water_level": -5.54
+            },
+            {
+                "uid": "CGWKOL0298",
+                "latitude": 23.91142,
+                "longitude": 75.15292,
+                "avg_water_level": -11.78
+            },
+            {
+                "uid": "CGWKOL0300",
+                "latitude": 24.1517,
+                "longitude": 75.0267,
+                "avg_water_level": -16.29
+            },
+            {
+                "uid": "CGWKOL0301",
+                "latitude": 24.205,
+                "longitude": 75.0033,
+                "avg_water_level": -24.78
+            },
+            {
+                "uid": "CGWKOL0302",
+                "latitude": 24.0575,
+                "longitude": 75.0994,
+                "avg_water_level": -4.32
+            },
+            {
+                "uid": "CGWKOL0303",
+                "latitude": 23.9817,
+                "longitude": 75.1033,
+                "avg_water_level": -7.19
+            },
+            {
+                "uid": "CGWKOL0304",
+                "latitude": 24.0483,
+                "longitude": 75.155,
+                "avg_water_level": -13.91
+            },
+            {
+                "uid": "CGWKOL0305",
+                "latitude": 24.0417,
+                "longitude": 75.1833,
+                "avg_water_level": -15.17
+            },
+            {
+                "uid": "CGWKOL0306",
+                "latitude": 23.841508,
+                "longitude": 75.106995,
+                "avg_water_level": -4.86
+            },
+            {
+                "uid": "CGWKOL0307",
+                "latitude": 24.0283,
+                "longitude": 75.2217,
+                "avg_water_level": -37.25
+            },
+            {
+                "uid": "CGWKOL0308",
+                "latitude": 24.0575,
+                "longitude": 75.0994444,
+                "avg_water_level": -14.07
+            },
+            {
+                "uid": "CGWKOL0309",
+                "latitude": 24.0133,
+                "longitude": 75.3478,
+                "avg_water_level": -3.08
+            },
+            {
+                "uid": "CGWKOL0310",
+                "latitude": 23.8908,
+                "longitude": 75.2706,
+                "avg_water_level": -10.36
+            },
+            {
+                "uid": "CGWKOL0311",
+                "latitude": 24.0683,
+                "longitude": 75.535,
+                "avg_water_level": -25.81
+            },
+            {
+                "uid": "CGWKOL0312",
+                "latitude": 24.0167,
+                "longitude": 75.385,
+                "avg_water_level": -16.53
+            },
+            {
+                "uid": "CGWKOL0313",
+                "latitude": 24.16035,
+                "longitude": 75.305019,
+                "avg_water_level": -9.59
+            }
+        ]
+    },
+    "Narsimhapur": {
+        "count": 1,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0315",
+                "latitude": 22.9347,
+                "longitude": 79.3972,
+                "avg_water_level": -9.29
+            }
+        ]
+    },
+    "Neemuch": {
+        "count": 12,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0316",
+                "latitude": 24.5546,
+                "longitude": 75.4817,
+                "avg_water_level": -11.36
+            },
+            {
+                "uid": "CGWKOL0317",
+                "latitude": 24.8383,
+                "longitude": 75.14,
+                "avg_water_level": -9.19
+            },
+            {
+                "uid": "CGWKOL0318",
+                "latitude": 24.6133,
+                "longitude": 74.9264,
+                "avg_water_level": -12.17
+            },
+            {
+                "uid": "CGWKOL0319",
+                "latitude": 24.9206,
+                "longitude": 75.2306,
+                "avg_water_level": -9.03
+            },
+            {
+                "uid": "CGWKOL0320",
+                "latitude": 24.5847,
+                "longitude": 74.8672,
+                "avg_water_level": -22.97
+            },
+            {
+                "uid": "CGWKOL0321",
+                "latitude": 24.6239,
+                "longitude": 74.9964,
+                "avg_water_level": -10.93
+            },
+            {
+                "uid": "CGWKOL0322",
+                "latitude": 24.481,
+                "longitude": 74.7785,
+                "avg_water_level": -34.46
+            },
+            {
+                "uid": "CGWKOL0323",
+                "latitude": 24.4667,
+                "longitude": 75.4333,
+                "avg_water_level": -2.8
+            },
+            {
+                "uid": "CGWKOL0324",
+                "latitude": 24.4767,
+                "longitude": 75.145,
+                "avg_water_level": -7.71
+            },
+            {
+                "uid": "CGWKOL0325",
+                "latitude": 24.4792,
+                "longitude": 75.2708,
+                "avg_water_level": -6.86
+            },
+            {
+                "uid": "CGWKOL0326",
+                "latitude": 24.4817,
+                "longitude": 75.2617,
+                "avg_water_level": -8.71
+            },
+            {
+                "uid": "CGWKOL0327",
+                "latitude": 24.5517,
+                "longitude": 74.77,
+                "avg_water_level": -1.59
+            }
+        ]
+    },
+    "Panna": {
+        "count": 3,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0329",
+                "latitude": 24.625,
+                "longitude": 80.3456,
+                "avg_water_level": -6.35
+            },
+            {
+                "uid": "CGWKOL0330",
+                "latitude": 24.2633,
+                "longitude": 80.1644,
+                "avg_water_level": -17.03
+            },
+            {
+                "uid": "CGWKOL0331",
+                "latitude": 24.2658,
+                "longitude": 79.9,
+                "avg_water_level": -13.96
+            }
+        ]
+    },
+    "Rajga Rh": {
+        "count": 3,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0337",
+                "latitude": 23.9106,
+                "longitude": 76.9083,
+                "avg_water_level": -5.31
+            },
+            {
+                "uid": "CGWKOL0338",
+                "latitude": 23.9106,
+                "longitude": 76.9083,
+                "avg_water_level": -8.16
+            },
+            {
+                "uid": "CGWKOL0339",
+                "latitude": 23.9153,
+                "longitude": 76.4125,
+                "avg_water_level": -8.27
+            }
+        ]
+    },
+    "Rajgarh": {
+        "count": 7,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0340",
+                "latitude": 23.6412455,
+                "longitude": 76.4628601,
+                "avg_water_level": -8.18
+            },
+            {
+                "uid": "CGWKOL0342",
+                "latitude": 23.9153,
+                "longitude": 76.4125,
+                "avg_water_level": -11.99
+            },
+            {
+                "uid": "CGWKOL0345",
+                "latitude": 24.0086,
+                "longitude": 76.7414,
+                "avg_water_level": -14.36
+            },
+            {
+                "uid": "CGWKOL0346",
+                "latitude": 23.775,
+                "longitude": 76.6319,
+                "avg_water_level": -4.37
+            },
+            {
+                "uid": "CGWKOL0347",
+                "latitude": 23.775,
+                "longitude": 76.6319,
+                "avg_water_level": -9.41
+            },
+            {
+                "uid": "CGWKOL0348",
+                "latitude": 23.5667,
+                "longitude": 76.4611,
+                "avg_water_level": -9.14
+            },
+            {
+                "uid": "CGWKOL0349",
+                "latitude": 23.5667,
+                "longitude": 76.4611,
+                "avg_water_level": -9.06
+            }
+        ]
+    },
+    "Ratlam": {
+        "count": 21,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0350",
+                "latitude": 23.7306,
+                "longitude": 75.3917,
+                "avg_water_level": -6.84
+            },
+            {
+                "uid": "CGWKOL0351",
+                "latitude": 23.75277,
+                "longitude": 75.5472222,
+                "avg_water_level": -18.57
+            },
+            {
+                "uid": "CGWKOL0352",
+                "latitude": 23.2258,
+                "longitude": 74.8389,
+                "avg_water_level": -14.38
+            },
+            {
+                "uid": "CGWKOL0353",
+                "latitude": 23.6597,
+                "longitude": 75.4633,
+                "avg_water_level": 3.76
+            },
+            {
+                "uid": "CGWKOL0354",
+                "latitude": 23.3125,
+                "longitude": 74.6361,
+                "avg_water_level": -11.36
+            },
+            {
+                "uid": "CGWKOL0355",
+                "latitude": 23.625,
+                "longitude": 75.1097,
+                "avg_water_level": -11.74
+            },
+            {
+                "uid": "CGWKOL0356",
+                "latitude": 23.775,
+                "longitude": 75.1083,
+                "avg_water_level": -4.15
+            },
+            {
+                "uid": "CGWKOL0357",
+                "latitude": 23.5847,
+                "longitude": 75.2528,
+                "avg_water_level": -27.0
+            },
+            {
+                "uid": "CGWKOL0358",
+                "latitude": 23.7747,
+                "longitude": 75.1086,
+                "avg_water_level": -28.38
+            },
+            {
+                "uid": "CGWKOL0359",
+                "latitude": 23.62333,
+                "longitude": 75.1083333,
+                "avg_water_level": -20.7
+            },
+            {
+                "uid": "CGWKOL0360",
+                "latitude": 23.5389,
+                "longitude": 74.8783,
+                "avg_water_level": -10.66
+            },
+            {
+                "uid": "CGWKOL0361",
+                "latitude": 23.5628,
+                "longitude": 74.93,
+                "avg_water_level": -11.98
+            },
+            {
+                "uid": "CGWKOL0362",
+                "latitude": 23.2731,
+                "longitude": 74.98083,
+                "avg_water_level": -24.43
+            },
+            {
+                "uid": "CGWKOL0363",
+                "latitude": 23.3022,
+                "longitude": 75.07,
+                "avg_water_level": -17.62
+            },
+            {
+                "uid": "CGWKOL0364",
+                "latitude": 23.25,
+                "longitude": 75.1125,
+                "avg_water_level": -11.22
+            },
+            {
+                "uid": "CGWKOL0365",
+                "latitude": 23.1533,
+                "longitude": 75.1989,
+                "avg_water_level": -20.89
+            },
+            {
+                "uid": "CGWKOL0366",
+                "latitude": 23.4056,
+                "longitude": 75.02,
+                "avg_water_level": -5.68
+            },
+            {
+                "uid": "CGWKOL0367",
+                "latitude": 23.2019,
+                "longitude": 75.0208,
+                "avg_water_level": -19.01
+            },
+            {
+                "uid": "CGWKOL0368",
+                "latitude": 23.367,
+                "longitude": 75.0538,
+                "avg_water_level": -9.6
+            },
+            {
+                "uid": "CGWKOL0369",
+                "latitude": 23.3519,
+                "longitude": 74.8561,
+                "avg_water_level": -16.78
+            },
+            {
+                "uid": "CGWKOL0370",
+                "latitude": 23.4625,
+                "longitude": 74.9261,
+                "avg_water_level": -19.57
+            }
+        ]
+    },
+    "Rewa": {
+        "count": 5,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0371",
+                "latitude": 24.7283,
+                "longitude": 81.4089,
+                "avg_water_level": -7.73
+            },
+            {
+                "uid": "CGWKOL0372",
+                "latitude": 25.0528,
+                "longitude": 81.3542,
+                "avg_water_level": -8.06
+            },
+            {
+                "uid": "CGWKOL0373",
+                "latitude": 24.7867,
+                "longitude": 81.775,
+                "avg_water_level": -14.63
+            },
+            {
+                "uid": "CGWKOL0375",
+                "latitude": 24.8339,
+                "longitude": 81.3653,
+                "avg_water_level": -9.61
+            },
+            {
+                "uid": "CGWKOL0376",
+                "latitude": 24.9861,
+                "longitude": 81.6361,
+                "avg_water_level": -9.7
+            }
+        ]
+    },
+    "Sagar": {
+        "count": 7,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0377",
+                "latitude": 24.1653,
+                "longitude": 78.1911,
+                "avg_water_level": -14.63
+            },
+            {
+                "uid": "CGWKOL0378",
+                "latitude": 24.1653,
+                "longitude": 78.1911,
+                "avg_water_level": -14.32
+            },
+            {
+                "uid": "CGWKOL0379",
+                "latitude": 23.7853,
+                "longitude": 79.1333,
+                "avg_water_level": -14.11
+            },
+            {
+                "uid": "CGWKOL0380",
+                "latitude": 23.6394,
+                "longitude": 79.0694,
+                "avg_water_level": -10.35
+            },
+            {
+                "uid": "CGWKOL0381",
+                "latitude": 23.8155,
+                "longitude": 78.7629,
+                "avg_water_level": -28.48
+            },
+            {
+                "uid": "CGWKOL0382",
+                "latitude": 23.8361,
+                "longitude": 78.7128,
+                "avg_water_level": -19.37
+            },
+            {
+                "uid": "CGWKOL0383",
+                "latitude": 24.333886,
+                "longitude": 78.270952,
+                "avg_water_level": -28.77
+            }
+        ]
+    },
+    "Satna": {
+        "count": 7,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0384",
+                "latitude": 24.3144,
+                "longitude": 80.9756,
+                "avg_water_level": -22.37
+            },
+            {
+                "uid": "CGWKOL0385",
+                "latitude": 24.2597,
+                "longitude": 80.7644,
+                "avg_water_level": -7.77
+            },
+            {
+                "uid": "CGWKOL0386",
+                "latitude": 24.2039,
+                "longitude": 81.0502,
+                "avg_water_level": -5.72
+            },
+            {
+                "uid": "CGWKOL0387",
+                "latitude": 24.2597,
+                "longitude": 80.7644,
+                "avg_water_level": -28.93
+            },
+            {
+                "uid": "CGWKOL0388",
+                "latitude": 24.9139,
+                "longitude": 80.7972,
+                "avg_water_level": -18.76
+            },
+            {
+                "uid": "CGWKOL0389",
+                "latitude": 24.5111,
+                "longitude": 81.0564,
+                "avg_water_level": -17.63
+            },
+            {
+                "uid": "CGWKOL0390",
+                "latitude": 24.5681,
+                "longitude": 80.8319,
+                "avg_water_level": -9.03
+            }
+        ]
+    },
+    "Sehore": {
+        "count": 8,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0391",
+                "latitude": 23.0067,
+                "longitude": 76.5058,
+                "avg_water_level": -10.99
+            },
+            {
+                "uid": "CGWKOL0392",
+                "latitude": 23.0067,
+                "longitude": 76.5058,
+                "avg_water_level": -10.45
+            },
+            {
+                "uid": "CGWKOL0393",
+                "latitude": 23.0111,
+                "longitude": 76.725,
+                "avg_water_level": -22.1
+            },
+            {
+                "uid": "CGWKOL0394",
+                "latitude": 22.7967,
+                "longitude": 77.6889,
+                "avg_water_level": -8.76
+            },
+            {
+                "uid": "CGWKOL0395",
+                "latitude": 23.1847,
+                "longitude": 77.0625,
+                "avg_water_level": -4.69
+            },
+            {
+                "uid": "CGWKOL0396",
+                "latitude": 23.1847,
+                "longitude": 77.0625,
+                "avg_water_level": -21.37
+            },
+            {
+                "uid": "CGWKOL0397",
+                "latitude": 23.4056,
+                "longitude": 77.1117,
+                "avg_water_level": -9.83
+            },
+            {
+                "uid": "CGWKOL0398",
+                "latitude": 23.3722,
+                "longitude": 77.1839,
+                "avg_water_level": -4.58
+            }
+        ]
+    },
+    "Seoni": {
+        "count": 1,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0400",
+                "latitude": 22.0328,
+                "longitude": 79.5458,
+                "avg_water_level": -3.29
+            }
+        ]
+    },
+    "Shahdol": {
+        "count": 3,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0401",
+                "latitude": 23.225,
+                "longitude": 81.5244,
+                "avg_water_level": -12.4
+            },
+            {
+                "uid": "CGWKOL0402",
+                "latitude": 23.6783,
+                "longitude": 81.3967,
+                "avg_water_level": -12.96
+            },
+            {
+                "uid": "CGWKOL0403",
+                "latitude": 23.2986,
+                "longitude": 81.3597,
+                "avg_water_level": -6.56
+            }
+        ]
+    },
+    "Shajapur": {
+        "count": 3,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0404",
+                "latitude": 23.432116,
+                "longitude": 76.264579,
+                "avg_water_level": -6.24
+            },
+            {
+                "uid": "CGWKOL0405",
+                "latitude": 23.558987,
+                "longitude": 76.391382,
+                "avg_water_level": -15.18
+            },
+            {
+                "uid": "CGWKOL0406",
+                "latitude": 23.64777,
+                "longitude": 76.35056,
+                "avg_water_level": -6.1
+            }
+        ]
+    },
+    "Sheopur": {
+        "count": 1,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0407",
+                "latitude": 25.6714,
+                "longitude": 76.7119,
+                "avg_water_level": -32.57
+            }
+        ]
+    },
+    "Shivpuri": {
+        "count": 12,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0168",
+                "latitude": 25.3104,
+                "longitude": 77.5327,
+                "avg_water_level": -4.38
+            },
+            {
+                "uid": "CGWKOL0171",
+                "latitude": 25.0474,
+                "longitude": 77.7701,
+                "avg_water_level": -12.55
+            },
+            {
+                "uid": "CGWKOL0177",
+                "latitude": 25.615,
+                "longitude": 77.3451,
+                "avg_water_level": -5.19
+            },
+            {
+                "uid": "CGWKOL0179",
+                "latitude": 25.2612,
+                "longitude": 77.8439,
+                "avg_water_level": -10.37
+            },
+            {
+                "uid": "CGWKOL0182",
+                "latitude": 25.521981,
+                "longitude": 78.264198,
+                "avg_water_level": -4.83
+            },
+            {
+                "uid": "CGWKOL0202",
+                "latitude": 25.031285,
+                "longitude": 78.11977,
+                "avg_water_level": -8.24
+            },
+            {
+                "uid": "CGWKOL0203",
+                "latitude": 25.6339,
+                "longitude": 78.0999,
+                "avg_water_level": -6.57
+            },
+            {
+                "uid": "CGWKOL0408",
+                "latitude": 24.9753,
+                "longitude": 77.5694,
+                "avg_water_level": -6.27
+            },
+            {
+                "uid": "CGWKOL0409",
+                "latitude": 25.4714,
+                "longitude": 78.1236,
+                "avg_water_level": -9.39
+            },
+            {
+                "uid": "CGWKOL0410",
+                "latitude": 25.4917,
+                "longitude": 77.9083,
+                "avg_water_level": -13.7
+            },
+            {
+                "uid": "CGWKOL0411",
+                "latitude": 25.5906,
+                "longitude": 77.3875,
+                "avg_water_level": -11.45
+            },
+            {
+                "uid": "CGWKOL0412",
+                "latitude": 25.484347,
+                "longitude": 77.5056425,
+                "avg_water_level": -6.14
+            }
+        ]
+    },
+    "Sidhi": {
+        "count": 5,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0414",
+                "latitude": 24.19,
+                "longitude": 81.4833,
+                "avg_water_level": -15.81
+            },
+            {
+                "uid": "CGWKOL0415",
+                "latitude": 24.3431,
+                "longitude": 81.4808,
+                "avg_water_level": -8.54
+            },
+            {
+                "uid": "CGWKOL0416",
+                "latitude": 24.4153,
+                "longitude": 81.8875,
+                "avg_water_level": -8.83
+            },
+            {
+                "uid": "CGWKOL0417",
+                "latitude": 24.4153,
+                "longitude": 81.8875,
+                "avg_water_level": -8.59
+            },
+            {
+                "uid": "CGWKOL0418",
+                "latitude": 24.5472,
+                "longitude": 82.1308,
+                "avg_water_level": -15.33
+            }
+        ]
+    },
+    "Singrauli": {
+        "count": 4,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0419",
+                "latitude": 24.1964,
+                "longitude": 82.4558,
+                "avg_water_level": -9.46
+            },
+            {
+                "uid": "CGWKOL0420",
+                "latitude": 24.0417,
+                "longitude": 82.2056,
+                "avg_water_level": -6.85
+            },
+            {
+                "uid": "CGWKOL0421",
+                "latitude": 24.3189,
+                "longitude": 82.3042,
+                "avg_water_level": -15.17
+            },
+            {
+                "uid": "CGWKOL0422",
+                "latitude": 24.0683,
+                "longitude": 82.6292,
+                "avg_water_level": -19.46
+            }
+        ]
+    },
+    "Tikamgarh": {
+        "count": 7,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0423",
+                "latitude": 25.3514,
+                "longitude": 78.6453,
+                "avg_water_level": -11.62
+            },
+            {
+                "uid": "CGWKOL0424",
+                "latitude": 25.3514,
+                "longitude": 78.6453,
+                "avg_water_level": -23.62
+            },
+            {
+                "uid": "CGWKOL0425",
+                "latitude": 25.3458,
+                "longitude": 78.8,
+                "avg_water_level": -4.25
+            },
+            {
+                "uid": "CGWKOL0426",
+                "latitude": 25.0236,
+                "longitude": 79.225,
+                "avg_water_level": -5.8
+            },
+            {
+                "uid": "CGWKOL0427",
+                "latitude": 25.0236,
+                "longitude": 79.225,
+                "avg_water_level": -5.95
+            },
+            {
+                "uid": "CGWKOL0428",
+                "latitude": 24.7569,
+                "longitude": 78.8347,
+                "avg_water_level": -9.64
+            },
+            {
+                "uid": "CGWKOL0429",
+                "latitude": 23.72,
+                "longitude": 78.818,
+                "avg_water_level": -12.29
+            }
+        ]
+    },
+    "Ujjain": {
+        "count": 20,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0430",
+                "latitude": 23.1442,
+                "longitude": 75.5542,
+                "avg_water_level": -11.42
+            },
+            {
+                "uid": "CGWKOL0431",
+                "latitude": 23.0447,
+                "longitude": 75.3789,
+                "avg_water_level": -10.67
+            },
+            {
+                "uid": "CGWKOL0432",
+                "latitude": 23.1639,
+                "longitude": 75.2639,
+                "avg_water_level": -4.18
+            },
+            {
+                "uid": "CGWKOL0433",
+                "latitude": 23.1639,
+                "longitude": 75.2639,
+                "avg_water_level": -8.33
+            },
+            {
+                "uid": "CGWKOL0434",
+                "latitude": 23.326298,
+                "longitude": 75.413542,
+                "avg_water_level": -20.51
+            },
+            {
+                "uid": "CGWKOL0435",
+                "latitude": 23.4478,
+                "longitude": 75.4103,
+                "avg_water_level": -3.81
+            },
+            {
+                "uid": "CGWKOL0436",
+                "latitude": 23.4261,
+                "longitude": 75.2825,
+                "avg_water_level": -5.96
+            },
+            {
+                "uid": "CGWKOL0437",
+                "latitude": 23.3353,
+                "longitude": 75.5544,
+                "avg_water_level": -12.6
+            },
+            {
+                "uid": "CGWKOL0438",
+                "latitude": 23.4911,
+                "longitude": 75.6667,
+                "avg_water_level": -1.11
+            },
+            {
+                "uid": "CGWKOL0439",
+                "latitude": 23.4903,
+                "longitude": 75.6653,
+                "avg_water_level": -4.92
+            },
+            {
+                "uid": "CGWKOL0440",
+                "latitude": 23.5567,
+                "longitude": 75.5161,
+                "avg_water_level": -4.26
+            },
+            {
+                "uid": "CGWKOL0441",
+                "latitude": 23.3408,
+                "longitude": 76.0389,
+                "avg_water_level": -6.28
+            },
+            {
+                "uid": "CGWKOL0442",
+                "latitude": 23.5937,
+                "longitude": 75.5802,
+                "avg_water_level": -9.45
+            },
+            {
+                "uid": "CGWKOL0443",
+                "latitude": 23.3456,
+                "longitude": 76.0397,
+                "avg_water_level": -15.09
+            },
+            {
+                "uid": "CGWKOL0444",
+                "latitude": 23.5042,
+                "longitude": 76.155,
+                "avg_water_level": -4.66
+            },
+            {
+                "uid": "CGWKOL0445",
+                "latitude": 23.5489,
+                "longitude": 75.9025,
+                "avg_water_level": -1.44
+            },
+            {
+                "uid": "CGWKOL0446",
+                "latitude": 23.2036,
+                "longitude": 75.6478,
+                "avg_water_level": -4.15
+            },
+            {
+                "uid": "CGWKOL0447",
+                "latitude": 23.0686,
+                "longitude": 75.9139,
+                "avg_water_level": -18.02
+            },
+            {
+                "uid": "CGWKOL0448",
+                "latitude": 23.0986,
+                "longitude": 75.73,
+                "avg_water_level": -36.72
+            },
+            {
+                "uid": "CGWKOL0449",
+                "latitude": 23.5133,
+                "longitude": 75.785,
+                "avg_water_level": -5.11
+            }
+        ]
+    },
+    "Umaria": {
+        "count": 1,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0450",
+                "latitude": 23.525,
+                "longitude": 80.8208,
+                "avg_water_level": -6.62
+            }
+        ]
+    },
+    "Vidisha": {
+        "count": 4,
+        "telemetries": [
+            {
+                "uid": "CGWKOL0451",
+                "latitude": 23.8486,
+                "longitude": 77.9422,
+                "avg_water_level": -10.1
+            },
+            {
+                "uid": "CGWKOL0453",
+                "latitude": 24.0575,
+                "longitude": 77.4072,
+                "avg_water_level": -10.89
+            },
+            {
+                "uid": "CGWKOL0454",
+                "latitude": 24.095,
+                "longitude": 77.6756,
+                "avg_water_level": -8.95
+            },
+            {
+                "uid": "CGWKOL0455",
+                "latitude": 24.12611111,
+                "longitude": 78.03888889,
+                "avg_water_level": -6.84
+            }
+        ]
+    }
+}

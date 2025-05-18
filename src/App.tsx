@@ -5,6 +5,7 @@ import Dashboard from './pages/Dashboard/Dashboard';
 import NewsPage from './pages/News/NewsPage';
 import SendPage from './pages/Send/SendPage';
 import GivePage from './pages/Complient/GivePage';
+import 'leaflet/dist/leaflet.css';
 import './App.css';
 
 function App() {
