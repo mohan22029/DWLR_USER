@@ -19,10 +19,15 @@ const AnomalyList: React.FC<AnomalyListProps> = ({ anomalies }) => {
     );
   }
 
+  // Sort anomalies in descending order by Date_Time (most recent first)
+  const sortedAnomalies = [...anomalies].sort(
+    (a, b) => new Date(b.Date_Time).getTime() - new Date(a.Date_Time).getTime()
+  );
+
   return (
     <div className="anomalies-container">
       <div className="anomalies-list">
-        {anomalies.map((anomaly, index) => (
+        {sortedAnomalies.map((anomaly, index) => (
           <div key={index} className="anomaly-item pulse">
             <div className="anomaly-icon">
               <AlertTriangle size={20} />
