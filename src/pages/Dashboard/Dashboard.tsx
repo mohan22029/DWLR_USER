@@ -45,7 +45,7 @@ const Dashboard: React.FC = () => {
   return (
     <div className="dashboard-container fade-in">
       <header className="dashboard-header">
-        <h1>Water Monitoring Dashboard</h1>
+        <h1>       Water Monitoring Dashboard</h1>
         <div className="dashboard-actions">
           <span className="last-updated">
             {lastUpdated ? `Last updated: ${lastUpdated.toLocaleTimeString()}` : ''}

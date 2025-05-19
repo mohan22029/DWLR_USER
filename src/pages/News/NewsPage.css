@@ -36,3 +36,9 @@
     height: calc(100vh - 160px);
   }
 }
+@media screen and (max-width: 768px) {
+  .news-header  {
+    margin-left: 45px;
+    transform: translateX(10px); /* Adjust this value as needed */
+  }
+}
